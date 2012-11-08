@@ -1,0 +1,34 @@
+{
+    "Account":{
+        "name":"Virtual Genius LLC",
+        "type":"Partner",
+        "intensity":"Cultivate",
+        "last purchase":"",
+        "description":"Virtual Genius is an lean-agile software design consultancy. We specialize in making teams successful with Domain-Driven Design (DDD), Behaviour-Driven Development (BDD) using Cucumber and Lean Software Development.",
+        "website":"www.virtual-genius.com"
+    },
+
+    "Contact":{
+        "first_name":"Paul",
+        "last_name":"Rayner",
+        "email":"paul@virtual-genius.com",
+        "twitter":"thepaulrayner",
+        "linked_in":"www.linkedin.com/in/thepaulrayner",
+        "office_phone":"",
+        "mobile_phone":"303-374-4370",
+        "decision_influence":"Minimal",
+        "airport_code":"DEN",
+        "department":"",
+        "title":"",
+        "training_attendance":"",
+        "quality":"Basic",
+        "description":"",
+        "lead_source":"",
+        "referred_by":"",
+        "campaign":"",
+        "reports_to":""
+    }
+}
+
+
+
